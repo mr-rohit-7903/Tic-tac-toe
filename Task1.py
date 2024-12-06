@@ -2,13 +2,16 @@
 # Roll no - 24ME10135
 # Role - Trainee Developer
 
-import random
+import random 
 
+# Gamebox to store and show the game 
 game_box = [
     [' ', ' ', ' '],
     [' ', ' ', ' '],
     [' ', ' ', ' ']
 ]
+
+# Box to show user what to input
 user_box = [
     ['1', '2', '3'],
     ['4', '5', '6'],
